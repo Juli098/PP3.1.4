@@ -1,4 +1,4 @@
-/*package com.example.pp3_1_4.controller;
+package com.example.pp3_1_4.controller;
 
 
 
@@ -79,4 +79,3 @@ public class AdminController {
     }
 }
 
- */
